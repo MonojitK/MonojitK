@@ -1,7 +1,2 @@
 - 👋 Hi, I’m @MonojitK
-- 👀 I’m interested in AI/ML mediated drug detector
-
-<!---
-MonojitK/MonojitK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Monojit offers an impressive array of wet lab molecular biology techniques with dry lab Deep Learning, Machine Learning, Bioinformatics, python, and R programming skills. Competent working in Linux computing environments. Skilled in developing and implementing computational methods and workflow to analyse high throughput multi-omics data. Strong background in cancer genomics, cancer biology, cancer immunology and molecular biology. Monojit focuses on wet lab molecular biology techniques and several ML & DL models on cancer multi-omics, Single cell data, NGS data for better understanding pathological manifestations of several aggressive cancers and demystify the heterogeneity among patients.
